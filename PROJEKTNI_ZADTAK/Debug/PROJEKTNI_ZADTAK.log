@@ -1,0 +1,87 @@
+﻿  ImportOBJ.cpp
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\ImportOBJ.cpp(64,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Model.cpp
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\ImportOBJ.cpp(64,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Pistol.cpp
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\Pistol.cpp(38,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PROJEKTNI_ZADTAK.cpp
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\Pistol.cpp(38,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\ImportOBJ.cpp(64,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(30,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(34,66): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(34,125): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(34,184): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(35,66): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(35,125): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(35,184): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(36,66): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(36,125): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(36,184): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(37,66): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(37,125): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(37,184): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(48,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(66,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(148,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(156,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(192,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(194,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(195,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(196,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(197,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(279,30): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(298,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(308,21): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(405,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(405,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK\PROJEKTNI_ZADTAK.cpp(410,21): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  PROJEKTNI_ZADTAK.vcxproj -> C:\Users\Mata\Desktop\IV godina\Racunarska Grafika\Vezbe\PROJEKTNI_ZADTAK\Debug\PROJEKTNI_ZADTAK.exe
